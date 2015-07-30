@@ -2,10 +2,13 @@
 Review of cs concepts
 
 Binary Search Trees
+
 Operations of addNode, removeNode, findNode, inOrderTraversal, preOrderTraversal, postOrderTraversal.
 
 Linked Lists
+
 Stack
+
 Queue
 
 Sources:
